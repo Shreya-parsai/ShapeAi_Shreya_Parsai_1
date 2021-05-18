@@ -1,4 +1,4 @@
-[6:21 PM, 5/18/2021] 🥰: # SHAPEAI WEB DEV WITH NODEJS BOOTCAMP
+ # SHAPEAI WEB DEV WITH NODEJS BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
